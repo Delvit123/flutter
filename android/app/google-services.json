@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84945841166",
+    "project_id": "fluttermaduas",
+    "storage_bucket": "fluttermaduas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84945841166:android:25b3ac241d46e82b68a05f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_maduas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84945841166-ki935i9f1e4jjv496g18j27ifemhuesf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdPGQxyDkGVLur6OOZfn48MmR37NqykUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84945841166-ki935i9f1e4jjv496g18j27ifemhuesf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

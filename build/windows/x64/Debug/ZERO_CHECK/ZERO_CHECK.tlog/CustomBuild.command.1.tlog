@@ -1,0 +1,10 @@
+^D:\APP\FLUTTER_MADUAS\BUILD\WINDOWS\CMAKEFILES\FB2811462A1AB84C8DC83B2542ED91B1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/App/flutter_maduas/windows -BD:/App/flutter_maduas/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/App/flutter_maduas/build/windows/flutter_maduas.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

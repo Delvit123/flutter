@@ -1,0 +1,10 @@
+D:/App/flutter_maduas/build/windows/runner/Debug/data/icudtl.dat
+D:/App/flutter_maduas/build/windows/runner/Debug/flutter_windows.dll
+D:/App/flutter_maduas/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/App/flutter_maduas/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/App/flutter_maduas/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/App/flutter_maduas/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/App/flutter_maduas/build/windows/runner/Debug/data/flutter_assets/NOTICES
+D:/App/flutter_maduas/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/App/flutter_maduas/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/App/flutter_maduas/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

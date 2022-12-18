@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">84945841166-ki935i9f1e4jjv496g18j27ifemhuesf.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">84945841166</string>
+    <string name="google_api_key" translatable="false">AIzaSyAdPGQxyDkGVLur6OOZfn48MmR37NqykUA</string>
+    <string name="google_app_id" translatable="false">1:84945841166:android:25b3ac241d46e82b68a05f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAdPGQxyDkGVLur6OOZfn48MmR37NqykUA</string>
+    <string name="google_storage_bucket" translatable="false">fluttermaduas.appspot.com</string>
+    <string name="project_id" translatable="false">fluttermaduas</string>
+</resources>
